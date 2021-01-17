@@ -8,7 +8,6 @@ namespace JaggetArrayModifications
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-
             int[][] jaggetArays = new int[n][];
 
             for (int row = 0; row < n; row++)
@@ -52,6 +51,7 @@ namespace JaggetArrayModifications
 
                 comand = Console.ReadLine();
             }
+
             foreach (var item in jaggetArays)
             {
                 Console.WriteLine(string.Join(" ", item));
