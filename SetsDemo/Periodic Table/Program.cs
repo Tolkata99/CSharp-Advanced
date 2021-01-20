@@ -9,7 +9,7 @@ namespace Periodic_Table
         {
             int n = int.Parse(Console.ReadLine());
 
-            HashSet<string> sets = new HashSet<string>();
+            SortedSet<string> sets = new SortedSet<string>();
 
             for (int i = 0; i < n; i++)
             {
