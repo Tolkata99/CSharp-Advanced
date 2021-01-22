@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenTimes", "EvenTimes\EvenTimes.csproj", "{C2DBB31E-CC7B-4190-88CA-9FA906440DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSymbol", "CountSymbol\CountSymbol.csproj", "{91CAEA7E-4725-47D9-803B-D5E921512F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe", "Wardrobe\Wardrobe.csproj", "{E04E2F5A-FB53-498C-89F5-D6EE87A7B5F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DBB31E-CC7B-4190-88CA-9FA906440DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DBB31E-CC7B-4190-88CA-9FA906440DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DBB31E-CC7B-4190-88CA-9FA906440DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DBB31E-CC7B-4190-88CA-9FA906440DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CAEA7E-4725-47D9-803B-D5E921512F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CAEA7E-4725-47D9-803B-D5E921512F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CAEA7E-4725-47D9-803B-D5E921512F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CAEA7E-4725-47D9-803B-D5E921512F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04E2F5A-FB53-498C-89F5-D6EE87A7B5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04E2F5A-FB53-498C-89F5-D6EE87A7B5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04E2F5A-FB53-498C-89F5-D6EE87A7B5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04E2F5A-FB53-498C-89F5-D6EE87A7B5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D77676-1CB7-4155-A0CA-5B705706BAA0}
+	EndGlobalSection
+EndGlobal
