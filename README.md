@@ -1,2 +1,2 @@
-# CSharp-Advanced
+CSharp-Advanced
 Tasks from SoftUni 
