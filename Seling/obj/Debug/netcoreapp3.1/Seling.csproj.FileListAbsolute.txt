@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\bin\Debug\netcoreapp3.1\Seling.exe
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\bin\Debug\netcoreapp3.1\Seling.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\bin\Debug\netcoreapp3.1\Seling.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\bin\Debug\netcoreapp3.1\Seling.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\bin\Debug\netcoreapp3.1\Seling.dll
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\bin\Debug\netcoreapp3.1\Seling.pdb
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.dll
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.pdb
+C:\Users\Acer Nitro\Documents\GitHub\C#.Advanced\CSharp-Advanced\Seling\obj\Debug\netcoreapp3.1\Seling.genruntimeconfig.cache
